@@ -1,1 +1,3 @@
---platform=linux/arm64 programyun1/surveyking
+--platform=linux/arm64 mrxianyu/surveyking
+--platform=linux/arm64/v8 biarms/mysql:5.7.33-beta-circleci
+
