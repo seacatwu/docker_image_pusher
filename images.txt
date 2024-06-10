@@ -1,3 +1,2 @@
---platform linux/arm64
-mysql:8
-mrxianyu/surveyking:latest
+--platform=linux/arm64 mysql:8
+--platform=linux/arm64 mrxianyu/surveyking:latest
