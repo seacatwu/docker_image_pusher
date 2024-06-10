@@ -1,3 +1,4 @@
 --platform=linux/arm64 mrxianyu/surveyking
 --platform=linux/arm64/v8 biarms/mysql:5.7.33-beta-circleci
+--platform=linux/arm64/v8 openjdk:8u342-jdk8u342-jdk
 
