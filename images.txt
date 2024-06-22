@@ -2,5 +2,3 @@
 --platform=linux/arm64/v8 biarms/mysql:5.7.33-beta-circleci
 --platform=linux/arm64/v8 openjdk:8u342-jdk
 --platform=linux/arm64/v8  python:3.9-slim-buster
---platform=linux/arm64  httpd:alpine3.20
-
