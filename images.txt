@@ -7,3 +7,4 @@ jjm2473/jellyfin-mpp
 --platform=linux/arm64  frooodle/s-pdf:0.26.1-ultra-lite
 --platform=linux/arm64  frooodle/s-pdf:latest
 --platform=linux/arm64  node:lts-slim
+--platform=linux/arm64  node:lts-bullseye
