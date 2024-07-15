@@ -8,3 +8,4 @@ jjm2473/jellyfin-mpp
 --platform=linux/arm64  frooodle/s-pdf:latest
 --platform=linux/arm64  node:lts-slim
 --platform=linux/arm64  node:lts-bullseye
+--platform=linux/arm64 allanpk716/chinesesubfinder:latest
