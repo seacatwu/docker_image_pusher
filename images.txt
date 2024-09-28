@@ -11,3 +11,4 @@ jjm2473/jellyfin-mpp
 --platform=linux/arm64 allanpk716/chinesesubfinder:latest
 --platform=linux/arm64/v8 eclipse-mosquitto:latest
 --platform=linux/arm64 emqx:latest
+--platform=linux/amd64 jellyfin/jellyfin:2024092305
