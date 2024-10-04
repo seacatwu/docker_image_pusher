@@ -11,6 +11,6 @@ jjm2473/jellyfin-mpp
 --platform=linux/arm64 allanpk716/chinesesubfinder:latest
 --platform=linux/arm64/v8 eclipse-mosquitto:latest
 --platform=linux/arm64 emqx:latest
---platform=linux/amd64 linuxserver/jellyfin:10.9.11
+--platform=linux/amd64 jellyfin/jellyfin:2024093005-amd64
 --platform=linux/amd64 allanpk716/chinesesubfinder:latest
 frooodle/s-pdf:latest
