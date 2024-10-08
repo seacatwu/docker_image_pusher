@@ -16,3 +16,5 @@ jjm2473/jellyfin-mpp
 frooodle/s-pdf:latest
 --platform=linux/amd64 whyour/qinglong:2
 nyanmisaka/jellyfin:latest
+mysql:8.4.2
+openjdk:24-ea-17-jdk-slim
