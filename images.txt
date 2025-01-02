@@ -13,7 +13,7 @@ jjm2473/jellyfin-mpp
 --platform=linux/arm64 emqx:latest
 --platform=linux/amd64 jellyfin/jellyfin:2024093005-amd64
 --platform=linux/amd64 allanpk716/chinesesubfinder:latest
-frooodle/s-pdf:latest
+--platform=linux/x86  frooodle/s-pdf:latest
 --platform=linux/amd64 whyour/qinglong:2
 nyanmisaka/jellyfin:latest
 mysql:8.4.2
