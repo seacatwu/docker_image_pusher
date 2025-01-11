@@ -16,3 +16,4 @@ jjm2473/jellyfin-mpp
 --platform=linux/amd64 whyour/qinglong:2
 nyanmisaka/jellyfin:latest
 --platform=linux/arm64 rustdesk/rustdesk-server:latest
+--platform=linux/arm64 rustdesk/rustdesk-server-s6:latest
