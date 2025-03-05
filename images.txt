@@ -17,4 +17,4 @@ jjm2473/jellyfin-mpp
 nyanmisaka/jellyfin:latest
 --platform=linux/arm64 rustdesk/rustdesk-server:latest
 --platform=linux/arm64 rustdesk/rustdesk-server-s6:latest
---platform=	linux/arm64/v8 golang:1.24.1-alpine3.21
+--platform=linux/arm64/v8 golang:1.24.1-alpine3.21
