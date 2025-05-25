@@ -1,21 +1,3 @@
---platform=linux/arm64 mrxianyu/surveyking
---platform=linux/arm64/v8 biarms/mysql:5.7.33-beta-circleci
---platform=linux/arm64/v8 openjdk:8u342-jdk
---platform=linux/arm64/v8  python:3.9-slim-buster
---platform=linux/arm64  httpd:alpine3.20
-jjm2473/jellyfin-mpp
---platform=linux/arm64  frooodle/s-pdf:0.26.1-ultra-lite
---platform=linux/arm64  frooodle/s-pdf:latest
---platform=linux/arm64  node:lts-slim
---platform=linux/arm64  node:lts-bullseye
---platform=linux/arm64 allanpk716/chinesesubfinder:latest
---platform=linux/arm64/v8 eclipse-mosquitto:latest
---platform=linux/arm64 emqx:latest
---platform=linux/amd64 jellyfin/jellyfin:2024093005-amd64
---platform=linux/amd64 allanpk716/chinesesubfinder:latest
---platform=linux/amd64 whyour/qinglong:2
-nyanmisaka/jellyfin:latest
---platform=linux/arm64 rustdesk/rustdesk-server:latest
---platform=linux/arm64 rustdesk/rustdesk-server-s6:latest
+
 --platform=linux/arm64/v8 golang:1.24.1-alpine3.21
 python:3.9-slim
