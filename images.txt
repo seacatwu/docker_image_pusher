@@ -3,3 +3,4 @@
 python:3.9-slim
 sparanoid/derp:edge
 headscale/headscale:latest
+teddysun/v2ray
