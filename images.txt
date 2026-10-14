@@ -1,2 +1,2 @@
 
---platform=linux/arm64/v8 rustdesk/rustdesk-server-s6
+--platform=linux/arm64 rustdesk/rustdesk-server-s6
