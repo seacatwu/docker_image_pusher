@@ -1,7 +1,2 @@
 
---platform=linux/arm64/v8 golang:1.24.1-alpine3.21
-python:3.9-slim
-sparanoid/derp:edge
-headscale/headscale:latest
-teddysun/v2ray
-rustdesk/rustdesk-server-s6
+--platform=linux/arm64/v8 rustdesk/rustdesk-server-s6
